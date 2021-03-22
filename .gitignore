@@ -32,3 +32,6 @@ priv/plts
 
 # Direnv
 .envrc
+
+# macOS
+.DS_Store
